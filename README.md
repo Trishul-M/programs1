@@ -1,1 +1,2 @@
-# programs1
+# programs1 by TRISHUL M 
+1BM19CS173
